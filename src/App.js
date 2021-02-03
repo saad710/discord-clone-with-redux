@@ -10,6 +10,7 @@ function App() {
         {/* <h2>Lets buid a descord clone !!</h2> */}
         <Sidebar/>
         <Chat/>
+        
     </div>
   );
 }
